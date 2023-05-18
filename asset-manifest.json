@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/CarRentalwebsite/static/css/main.845a33e8.css",
+    "main.js": "/CarRentalwebsite/static/js/main.e9d434ee.js",
+    "static/media/remixicon.svg?t=1681573354175": "/CarRentalwebsite/static/media/remixicon.7b85b7f8453487681fc4.svg",
+    "static/media/remixicon.eot?t=1681573354175": "/CarRentalwebsite/static/media/remixicon.ae7015155af44fd22375.eot",
+    "static/media/remixicon.ttf?t=1681573354175": "/CarRentalwebsite/static/media/remixicon.8df75b42f93ef0e1f8aa.ttf",
+    "static/media/ava-1.jpg": "/CarRentalwebsite/static/media/ava-1.c185d7723fe40ec46830.jpg",
+    "static/media/ava-3.jpg": "/CarRentalwebsite/static/media/ava-3.1442075049ece43143f2.jpg",
+    "static/media/ava-2.jpg": "/CarRentalwebsite/static/media/ava-2.11e918c656d0c7851624.jpg",
+    "static/media/ava-4.jpg": "/CarRentalwebsite/static/media/ava-4.5f15524f7b3f80a834df.jpg",
+    "static/media/remixicon.woff?t=1681573354175": "/CarRentalwebsite/static/media/remixicon.56b6495e17f23a23803a.woff",
+    "static/media/remixicon.woff2?t=1681573354175": "/CarRentalwebsite/static/media/remixicon.52f02e1386dd3597bc00.woff2",
+    "static/media/bmw-offer.png": "/CarRentalwebsite/static/media/bmw-offer.ecfb9ac1bf7b5ef615a6.png",
+    "static/media/blog-1.jpg": "/CarRentalwebsite/static/media/blog-1.e4949dd1d3e0ec0543c5.jpg",
+    "static/media/slider-2.jpg": "/CarRentalwebsite/static/media/slider-2.4cd97469474175a97a63.jpg",
+    "static/media/slider-3.jpg": "/CarRentalwebsite/static/media/slider-3.ed96ff21726e81c10f40.jpg",
+    "static/media/nissan-offer.png": "/CarRentalwebsite/static/media/nissan-offer.6eddc86310b7cac538ae.png",
+    "static/media/blog-2.jpg": "/CarRentalwebsite/static/media/blog-2.dce2eeb8549652564638.jpg",
+    "static/media/toyota-offer-2.png": "/CarRentalwebsite/static/media/toyota-offer-2.861de085d1c782df9e9d.png",
+    "static/media/offer-toyota.png": "/CarRentalwebsite/static/media/offer-toyota.4b2435e447a7832d9f4a.png",
+    "static/media/mercedes-offer.png": "/CarRentalwebsite/static/media/mercedes-offer.d177a4fe9e2002ddb24d.png",
+    "static/media/blog-3.jpg": "/CarRentalwebsite/static/media/blog-3.0cd3766389d5b56badaa.jpg",
+    "static/media/slider-1.jpg": "/CarRentalwebsite/static/media/slider-1.df185de6fe26ce7346f2.jpg",
+    "static/media/drive.jpg": "/CarRentalwebsite/static/media/drive.b72e6f2d1ccdbd6550a9.jpg",
+    "static/media/slick.svg": "/CarRentalwebsite/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/CarRentalwebsite/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/CarRentalwebsite/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/CarRentalwebsite/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/CarRentalwebsite/index.html",
+    "main.845a33e8.css.map": "/CarRentalwebsite/static/css/main.845a33e8.css.map",
+    "main.e9d434ee.js.map": "/CarRentalwebsite/static/js/main.e9d434ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.845a33e8.css",
+    "static/js/main.e9d434ee.js"
+  ]
+}
